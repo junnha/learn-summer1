@@ -17,8 +17,8 @@ It includes studies in C++, Python, Statistics, Machine Learning, and algorithmi
 
 ### Quick Access
 
-[ps](ps/)
-[cpp](cpp/)
-[python](python/)
-[ml](ml/)
-[stats](stats/)
+- [ps](ps/)
+- [cpp](cpp/)
+- [python](python/)
+- [ml](ml/)
+- [stats](stats/)
