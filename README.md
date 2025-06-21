@@ -4,7 +4,7 @@
 
 ## 디렉토리 구조
 
-- cpp/
-- python/
-- ml/
-- stats/
+- cpp
+- python
+- ml
+- stats
