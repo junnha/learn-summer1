@@ -1,8 +1,9 @@
 ## Summer Journey (After Freshman Spring)
 
-여름방학 동안 C++, Python, 통계, 머신러닝의 기초를 학습합니다.
+This repository documents my summer learning journey after completing the first semester of freshman year.
+It includes my studies in C++, Python, Statistics, Machine Learning, and algorithmic problem solving.
 
-### 디렉토리 구조
+### directory Structure
 
 - [ps](./ps)
 - [cpp](./cpp)
