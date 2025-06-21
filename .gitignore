@@ -4,3 +4,5 @@
 .txt
 .log
 .out
+/ps/*
+!/ps/*.cpp
