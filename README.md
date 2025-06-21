@@ -4,6 +4,7 @@
 
 ## 디렉토리 구조
 
+- ps
 - cpp
 - python
 - ml
