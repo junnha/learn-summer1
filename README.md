@@ -13,12 +13,3 @@ It includes studies in C++, Python, Statistics, Machine Learning, and algorithmi
 /ml       - Machine learning fundamentals and experiments  
 /stats    - Statistics concepts and exercises
 
----
-
-### Quick Access
-
-- [ps](ps/)
-- [cpp](cpp/)
-- [python](python/)
-- [ml](ml/)
-- [stats](stats/)
