@@ -4,8 +4,8 @@
 
 ### 디렉토리 구조
 
-- ps
-- cpp
-- python
-- ml
-- stats
+- [ps](./ps)
+- [cpp](./cpp)
+- [python](./python)
+- [ml](./ml)
+- [stats](./stats)
