@@ -1,8 +1,5 @@
 .DS_Store
 .DS_Store
 .vscode
-.txt
-.log
-.out
 /ps/*
 !/ps/*.cpp
