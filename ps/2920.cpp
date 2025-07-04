@@ -32,3 +32,5 @@ int main() {
         std::cout << "mixed";
     }
 }
+
+//불리안함수를다시한번보자
