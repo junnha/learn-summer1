@@ -7,8 +7,8 @@ It includes studies in C++, Python, Statistics, Machine Learning, and algorithmi
 
 ### Directory Structure
 
-/ps       - Problem solving (Baekjoon, algorithm)  
-/cpp      - C++ basics and Standard Template Library (STL)  
+/ps       - Problem solving (Baekjoon)  
+/algowcpp - algorithm with C++ and Standard Template Library (STL)  
 /python   - Python practice and mini projects  
 /ml       - Machine learning fundamentals and experiments  
 /stats    - Statistics concepts and exercises
